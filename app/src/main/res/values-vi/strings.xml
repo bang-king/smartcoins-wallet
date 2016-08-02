@@ -10,9 +10,9 @@
 <string name="notes">Ghi chú</string>
 <string name="note">chú thích</string>
 <string name="payment_received">Thanh toán nhận được</string>
-<string name="import_brainkey">Nhập khẩu từ BrainKey</string>
+<string name="import_brainkey">Nhập BrainKey</string>
 <string name="import_backup_old">nhập Sao lưu</string>
-<string name="choose_backup">Chọn sao lưu</string>
+<string name="choose_backup">Chọn tập tin dự phòng</string>
 <string name="choose_file">Chọn tập tin</string>
 <string name="no_file_chosen">Không có tập tin được lựa chọn</string>
 <string name="account_label">Chọn tập tin</string>
